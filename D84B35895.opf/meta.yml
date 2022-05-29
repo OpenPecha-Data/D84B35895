@@ -1,0 +1,22 @@
+id: D84B35895
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:43:17+00:00'
+last_modified: '2022-05-29T08:57:14.801041+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    425f:
+      image_group_id: I1PD95933
+      title: ལས་བརྒྱ་རྩ་གཅིག་པ།
+      total_pages: 1560
+      order: 88
+      base_file: 425f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
